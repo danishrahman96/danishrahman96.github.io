@@ -14,4 +14,4 @@ I graduated in 2018 with a bachelor’s degree in Mechanical Engineering from Te
 
 Research
 ======
-Since starting at Columbia University, I have been conducting research within the domains of Machine Learning, Computer Vision, and Accessibility. I also joined the Distributed Research Apprenticeships for Master's (DREAM) program, in which I have had the pleasure of working with the [Computer-Enabled Abilities Laboratory (CEAL)](https://ceal.cs.columbia.edu). 
+Since starting at Columbia University, I have been conducting research within the domains of Machine Learning, Computer Vision, and Accessibility. I also joined the [Distributed Research Apprenticeships for Master's (DREAM) program](https://baselhindi.github.io/dreamprogram/), in which I have had the pleasure of working with the [Computer-Enabled Abilities Laboratory (CEAL)](https://ceal.cs.columbia.edu). 
