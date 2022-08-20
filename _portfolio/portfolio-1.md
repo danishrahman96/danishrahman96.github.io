@@ -1,6 +1,6 @@
 ---
 title: "Sports Accessibility from Pixels"
-excerpt: "Enhancing tennis gameplay understanding using computer vision and deep learning by dissecting the components of a broadcasted tennis video including the court, players, and ball, and then converting those components to a digestible spatialized audio for blind and low-vision users.<br/><img src='/images/Tennis_Screenshot.jpg'>"
+excerpt: "Enhancing tennis gameplay understanding using computer vision and deep learning by dissecting the components of a broadcasted tennis video including the court, players, and ball, and then converting those components to a digestible spatialized audio for blind and low-vision users. This project is conducted in the Columbia University [Computer-Enabled Abilities Laboratory](https://ceal.cs.columbia.edu).<br/><img src='/images/Tennis_Screenshot.jpg'>"
 collection: portfolio
 ---
 
