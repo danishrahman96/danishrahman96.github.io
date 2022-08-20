@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sports Accessibility from Pixels"
+excerpt: "Enhancing tennis gameplay understanding using computer vision and deep learning by dissecting the components of a broadcasted tennis video including the court, players, and ball, and then converting those components to a digestible spatialized audio for blind and low-vision users.<br/><img src='/images/Tennis_Screenshot.jpg'>"
 collection: portfolio
 ---
 
