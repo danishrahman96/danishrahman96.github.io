@@ -6,7 +6,7 @@ excerpt: 'This paper examines the performance of bifacial solar panels in the re
 date: 2017-06-25
 venue: '2017 IEEE 44th Photovoltaic Specialist Conference (PVSC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8366448'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'A. A. B. Baloch, M. Armoush, B. Hindi, A. Bousselham and N. Tabet. (2017). &quot;Performance Assessment of Stand Alone Bifacial Solar Panel Under Real Time Conditions.&quot; <i>IEEE 44th Photovoltaic Specialist Conference (PVSC)</i>. 2017.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
