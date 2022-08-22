@@ -1,11 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
-    
+
   - title: "Portfolio"
     url: /portfolio/
     
+  - title: "Publications"
+    url: /publications/  
+    
   - title: "CV"
     url: /files/Basel_Hindi_CV_2022.pdf
+    
+    
+   - title: "Personal Projects"
+    url: /personalprojects/
    
