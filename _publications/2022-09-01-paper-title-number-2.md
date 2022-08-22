@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-01-paper-title-number-2
 excerpt: ''
 date: 2022-09-01
-venue: ' '
+venue: ' conference'
 paperurl: ' '
-citation: ''
+citation: 'coming soon'
 ---
