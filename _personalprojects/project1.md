@@ -1,7 +1,7 @@
 ---
-title: "TESTERRRR"
-excerpt: "meow [Computer-Enabled Abilities Laboratory](https://ceal.cs.columbia.edu).<br/><img src='/images/Tennis_Screenshot.jpg'>"
+title: "Formula SAE Vehicle Design"
+excerpt: "Designed a Formula SAE racecar from scratch, including suspension geometry, powertrain integration, and safety subsystems. Fabricated the chassis using chromoly tubing and integrated the engine assembly.<br/><img src='/images/FSAE1.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ 
