@@ -1,15 +1,18 @@
 # main links links
 main:
-
   - title: "Portfolio"
-    url: /portfolio/
+    url: /test/
     
   - title: "Publications"
     url: /publications/  
     
-  - title: "CV"
-    url: /files/Basel_Hindi_CV_2022.pdf
-   
   - title: "Personal Projects"
     url: /personalprojects/
+      
+  - title: "Leadership and Service"
+    url: /leadership/
+   
+  - title: "CV"
+    url: /files/Danish_Rahman_CV_2022.pdf
+
    
