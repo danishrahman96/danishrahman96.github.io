@@ -13,7 +13,7 @@ name                     : &name "Danish Rahman"
 description              : &description "Master's in Mechanical Engineering Candidate, with a Specialization in Robotics and Control at Columbia University"
 url                      : "https://danishrahman96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danishrahman96/danishrahman96.github.io"
+repository               : "danishrahman96.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
