@@ -1,6 +1,6 @@
 ---
-title: "Sports Accessibility from Pixels"
-excerpt: "Enhancing tennis gameplay understanding using computer vision and deep learning by dissecting the components of a broadcasted tennis video including the court, players, and ball, and then converting those components to a digestible spatialized audio for blind and low-vision users. This project is conducted in the Columbia University [Computer-Enabled Abilities Laboratory](https://ceal.cs.columbia.edu).<br/><img src='/images/Tennis_Screenshot.jpg'>"
+title: "Perturbation-based training for motivating gait training paradigms in elderly people"
+excerpt: "The aim of this research project is to develop gait training paradigms through the application of different types of perturbations while subjects are moving with an assistive walker. By analyzing variations in mobility and stability with changing perturbation regimes, it is envisioned that a mobile task-oriented training system can be created to reduce the rates of high-risk falls for elderly subjects. This project is conducted in the Columbia University [Robotics and Rehabilitation Laboratory](https://roar.me.columbia.edu/), with a multidisciplinary team including researchers from robotics and medical backgrounds."
 collection: portfolio
 ---
 
