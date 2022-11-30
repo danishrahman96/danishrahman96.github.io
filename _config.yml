@@ -13,7 +13,7 @@ name                     : &name "Danish Rahman"
 description              : &description "Master's in Mechanical Engineering Candidate, with a Specialization in Robotics and Control at Columbia University"
 url                      : "https://danishrahman96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danishrahman96/danishrahman96.github.io"
+repository               : "danishrahman96.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,6 @@ analytics:
 # Site Author
 author:
   name             : "Danish Rahman (he/him)"
-  
   avatar           : "dr3244_profile_round.png"
   bio              : "System Engineer | Mechanical Engineer | Autonomous Vehicles | Rehabilitation Robotics"
   location         : "New York, New York, USA"
@@ -184,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: 
+    permalink: /:collection/:path/
   leadership:
     output: true
     permalink: /:collection/:path/
@@ -195,20 +194,42 @@ collections:
 
 # Defaults
 defaults:
-  # Leadership
+  # _posts
   - scope:
       path: ""
-      type: leadership
+      type: posts
     values:
       layout: single
       author_profile: true
- # _publications
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -216,13 +237,25 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _personalprjects
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _portfolio
   - scope:
       path: ""
       type: personalprojects
     values:
       layout: single
       author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
