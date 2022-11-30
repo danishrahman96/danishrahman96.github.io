@@ -205,10 +205,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _leadership
   - scope:
       path: ""
-      type: pages
+      type: leadership
     values:
       layout: single
       author_profile: true
