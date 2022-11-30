@@ -205,10 +205,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _leadership
+  # pages
   - scope:
       path: ""
-      type: leadership
+      type: pages
     values:
       layout: single
       author_profile: true
@@ -256,6 +256,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _leadership
+  - scope:
+      path: ""
+      type: leadership
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
