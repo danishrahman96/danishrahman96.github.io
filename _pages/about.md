@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, and welcome to my homepage! My name is Danish Rahman, and I am pursuing a Master’s Degree in Mechanical Engineering with a specialization in Robotics and Control Systems at Columbia University with expected graduation in December 2023. My research interests include autonomous robotics such as self-driving ground and aerial vehicles, rehabilitation robotics and the hardware-software intersection within these domains. Above all, I am keenly interested in how human beings and the surrounding environment continue to interact with these robotic systems. 
 
-I completed my Bachelor's in Mechanical Engineering in 2018 from Texas A&M University. Upon my graduation, I spent four years as a System and Mechanical Engineer working on R&D in offroad and electrified autonomous vehicles. This experience fostered my burgeoning passion for autonomous systems, while my time as a System Engineer facilitated my transition towards a higher-level design and architecture oriented focus.
+I completed my Bachelor's in Mechanical Engineering in 2018 from Texas A&M University. Upon my graduation, I spent four years as a System and Mechanical Engineer working on R&D in offroad and electrified autonomous vehicles. This experience fostered my burgeoning passion for autonomous systems, while my time as a System Engineer facilitated my transition towards a higher-level design and architecture oriented approach.
 
 Current Research Projects
 ======
