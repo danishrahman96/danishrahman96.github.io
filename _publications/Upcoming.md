@@ -3,7 +3,7 @@ title: "Perturbation-based training to improve gait stability in older adults"
 collection: publications
 permalink: /publication/mTPAD
 excerpt: 'This paper will describe a pilot study investigating the feasibility, safety, and effect of perturbation-based balance training for elderly individuals used the Mobile Tethered Pelvic Assistive Device (mTPAD), a novel robotic system designed by the Rehabilitation and Robotics Lab (ROAR) at Columbia University.'
-date: 2022/12/15
+date: 2023/07/01
 venue: 'TBD'
 paperurl: ''
 citation: 'To be updated soon!'
