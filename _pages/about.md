@@ -15,4 +15,5 @@ I completed my Bachelor's in Mechanical Engineering in 2018 from Texas A&M Unive
 Current Research Projects
 ======
 During my Master's at Columbia University, I have worked as a Graduate Research Assistant at the [Robotics and Rehabilitation Lab (ROAR)](https://roar.me.columbia.edu/). At the ROAR Lab, I am working on the [Mobile Tethered Pelvis Assist Device (mTPAD)](https://roar.me.columbia.edu/content/mTPAD), a mobile gait training robotic system, which uses perturbation-based training to augment motion stability in elderly people and patients of degenerative illnesses, such as Parkinson's and cerebellar ataxia.
+
 Additionally, I have worked as part of the [DiTect Lab](https://sharondi-columbia.wixsite.com/ditectlab) under the supervision of Professor Sharon Di, focusing on the development of advanced motion planning algorithms to model and predict the movement of pedestrians and wheelchair users in a GPS-denied environment within New York's subway stations.
