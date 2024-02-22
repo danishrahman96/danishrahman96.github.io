@@ -8,8 +8,8 @@ permalink: /personalprojects/Supermileage
 As part of a diverse team, I was responsible for the engineering design process for the aluminium chassis, outer fiberglass molded body shell, and interfacing the vehicle’s electronics safely. Additionally, I was involved in the development and simulation of the vehicle's Ackermann steering and powertrain subsystems.
 
 <div style="display: flex;">
-  <img src="/images/Supermileage3.jpg" alt="Orthosis 1" style="width: 50%;">
-  <img src="/images/Supermileage2.jpeg" alt="Orthosis 2" style="width: 50%;">
+  <img src="/images/Supermileage3.jpg" alt="Supermileage 1" style="width: 50%;">
+  <img src="/images/Supermileage2.jpeg" alt="Supermileage 2" style="width: 50%;">
 </div>
 ---
 
