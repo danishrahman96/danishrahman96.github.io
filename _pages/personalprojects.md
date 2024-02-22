@@ -9,6 +9,6 @@ This is a list of personal projects that I have completed over the past few year
 
 {% include base_path %}
 
-{% for post in site.teaching %}
+{% for post in site.personalprojects %}
   {% include archive-single.html %}
 {% endfor %}
