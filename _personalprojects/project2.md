@@ -1,5 +1,4 @@
 ---
----
 title: "Quadrupedal Walking Robot"
 excerpt: "I developed a quadrupedal robot as part of an engineering team project aimed at replicating the entire development cycle of a stand-alone engineering product."
 collection: personalprojects
@@ -11,6 +10,5 @@ excerpt: "I developed a quadrupedal robot as part of an engineering team project
 <div style="display: flex;">
   <img src="/images/Turtle_Bot_3.gif" alt="Orthosis 1" style="width: 100%;">
 </div>
-
-[![Alt text](https://img.youtube.com/vi/tyCnBZJjztc/0.jpg)](https://www.youtube.com/watch?v=tyCnBZJjztc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tyCnBZJjztc" frameborder="0" allowfullscreen></iframe>
 ---
