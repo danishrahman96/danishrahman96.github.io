@@ -11,6 +11,6 @@ I developed a quadrupedal robot as part of an engineering team project aimed at 
   <img src="/images/Turtle_Bot_3.gif" alt="Orthosis 1" style="width: 100%;">
 </div>
 <div style="display: flex;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tyCnBZJjztc" frameborder="0" allowfullscreen></iframe>
+  [![Alt text](https://img.youtube.com/vi/abcdefghijk/0.jpg)](https://www.youtube.com/watch?v=abcdefghijk)
 </div>
 ---
